@@ -6,4 +6,4 @@ RUN pip install -r requirements.txt
 
 ENV PYTHONUNBUFFERED=1
 
-CMD ['python', 'daemon.py']
+CMD ["python", "daemon.py"]
