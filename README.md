@@ -1,4 +1,4 @@
-This is a dummy python service which listens on `0.0.0.0:9005` and answers with following JSON structure:
+This is a dummy python service which listens on `0.0.0.0:80` and answers with following JSON structure:
 
 ```
 {
