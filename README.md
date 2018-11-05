@@ -16,6 +16,6 @@ Good idea to run container with ramfs mounted to `/tmp` to speed things up:
 ```
 docker run ... \
   --tmpfs /tmp:rw,noexec,nosuid,size=65536k \
-  ...
+  agrrh/dummy-service-py
 ```
 
